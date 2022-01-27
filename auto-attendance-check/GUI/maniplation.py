@@ -58,7 +58,7 @@ def take_photo_command(background: tk.PhotoImage):
 
     try:
         # take_photo実行
-        # client.exec_command(cmd)
+        client.exec_command(cmd)
 
         # 撮影した画像を読み込む
         sftp_connection = client.open_sftp()

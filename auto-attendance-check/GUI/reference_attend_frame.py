@@ -151,7 +151,7 @@ class ReferenceAttendFrame(tk.Frame):
             "none",
             "error",
         )
-        self.tree = ttk.Treeview(self.canvas, columns=self.column, show="headings")
+        self.tree = ttk.Treeview(self.canvas, columns=self.column, show="headings", height=600)
 
         # 列の設定
         self.tree.column("num", width=40, anchor="w", stretch=False)

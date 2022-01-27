@@ -43,7 +43,360 @@
         "student number":6,
         "name":"Itoh",
         "attendance states": [
-            "error"
+            "error",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":7,
+        "name":"Uchikai",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":8,
+        "name":"Ohsumi",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":9,
+        "name":"Ozawa",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":10,
+        "name":"Kuribara",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":11,
+        "name":"Sakamoto",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":12,
+        "name":"Satou",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":13,
+        "name":"Sawaura",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":14,
+        "name":"Shimosawa",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":15,
+        "name":"Takahashi_k",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":16,
+        "name":"Takahashi_n",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":17,
+        "name":"Takizawa",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":18,
+        "name":"Tanaka",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":19,
+        "name":"Nagai",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":20,
+        "name":"Negishi",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":21,
+        "name":"Hatori",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":22,
+        "name":"Hukasawa",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":23,
+        "name":"Hukiya",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":24,
+        "name":"Matsuda",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":25,
+        "name":"Yagi",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":26,
+        "name":"Yajima",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":27,
+        "name":"Wakabayashi",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":28,
+        "name":"Watanabe",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":29,
+        "name":"Sakurai",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":30,
+        "name":"Ideura",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":31,
+        "name":"Urie",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":32,
+        "name":"Okada",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":33,
+        "name":"Kabe",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":34,
+        "name":"Kosuda",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":35,
+        "name":"Seki",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":36,
+        "name":"Senbonmatsu",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":37,
+        "name":"Tadenuma",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":38,
+        "name":"Hasegawa",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":39,
+        "name":"Masuda",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":40,
+        "name":"Kobori",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
+        ]
+    },
+    {
+        "student number":41,
+        "name":"Tegusi",
+        "attendance states": [
+            "attend",
+            "attend",
+            "attend",
+            "attend"
         ]
     }
 ]
