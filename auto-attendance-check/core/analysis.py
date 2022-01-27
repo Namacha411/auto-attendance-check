@@ -191,3 +191,23 @@ def analysis(image: Image, area_data_path: str) -> List[Tuple[int, bool]]:
         id, img = student
         result.append((id, face_detection(img)))
     return result
+
+
+if __name__ == "__main__":
+    # this is testcode
+    def test_split_image():
+        image: str = "auto-attendance-check/tests/core/images/test.JPG"
+        image: np.ndarray = cv2.imread(image)
+        width, height, _ =  image.shape
+        areas = [
+            Area(22, [[0, 0], [width // 3, height // 2]]),
+            Area(1, [[width // 3, 0], [width, height // 2]]),
+            Area(20, [[0, height // 2], [width // 3, height]]),
+            Area(2, [[width // 3, height // 2], [width, height]])
+        ]
+        res = split_image(image, areas)
+        for i, t in res:
+            cv2.imshow("img", cv2.resize(t, (200, 200)))
+            print(f"no.{i}\t{face_detection(t)}")
+            cv2.waitKey(0)
+    test_split_image()
